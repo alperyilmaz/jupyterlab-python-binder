@@ -5,7 +5,7 @@ dependencies:
   - matplotlib
   - scipy
   - sympy
-  - opencv-python
+  - opencv
   - scikit-learn
   - scikit-image
   - networkx
