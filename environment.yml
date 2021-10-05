@@ -18,3 +18,4 @@ dependencies:
   - vdom
   - jupyterlab_launcher
   - watermark
+  - nbgitpuller
