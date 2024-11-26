@@ -11,7 +11,6 @@ dependencies:
   - networkx
   - bokeh
   - statsmodels
-  - notebook
   - nbval
   - ipython
   - pandas
@@ -19,5 +18,4 @@ dependencies:
   - jupyterlab_launcher
   - watermark
   - nbgitpuller
-  - numba
   - biopython
